@@ -82,7 +82,7 @@ Advanced data analysis and preprocessing including:
 
 ## 🛠️ Technologies & Libraries
 
-- **Python 3.x**
+- **Python 3.11**
 - **Pandas**: Data manipulation and analysis
 - **NumPy**: Numerical computations
 - **Matplotlib & Seaborn**: Data visualization
@@ -101,7 +101,7 @@ pip install pandas numpy matplotlib seaborn psycopg2-binary sqlalchemy jupyter
 
 1. **Clone/Download the repository**
    ```bash
-   cd "Customer Data Analysis"
+   cd "Customer-Data-Analysis"
    ```
 
 2. **Install dependencies**
